@@ -19,5 +19,5 @@ scipy==1.1.0
 
 Werkzeug==0.14.1
 
-CMake==3.13.0-rc1
+CMake==3.12
 
